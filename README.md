@@ -1,4 +1,4 @@
-# ganarcrm_vue
+# Vue_Django_CRM
 
 ## Project setup
 ```
